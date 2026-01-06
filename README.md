@@ -33,6 +33,25 @@ The focus is on describing patterns rather than making claims.
 
 ---
 
+
+## Features
+
+| Feature | Description |
+|------|-------------|
+| Pattern Documentation | Captures recurring interaction and messaging patterns attributed to tinder bots |
+| Message Analysis | Breaks down common tinder bot message example structures |
+| Behavior Identification | Highlights signals often associated with bots on tinder |
+| Conversation Flow Review | Examines sequences where a tinder bot asking for number appears |
+| Repetition Tracking | Observes cases where tinder bots ask for number across multiple interactions |
+| Cross-Platform References | Notes mentions of tinder bots snapchat within conversations |
+| Community Insight | Aggregates observations commonly shared as tinder bots reddit discussions |
+| Awareness Context | Provides context around questions like are there bots on tinder |
+| Safety Perspective | Documents concerns reflected in is tinder full of bots discussions |
+| Educational Framing | Keeps explanations neutral and descriptive rather than prescriptive |
+
+---
+
+
 ## Core Messaging Behavior
 
 Many discussions center on recognizable message patterns. Common examples include a **tinder bot message example** that follows a predictable script, a **tinder bot asking for number**, or cases where **tinder bots ask for number** early in a conversation.
